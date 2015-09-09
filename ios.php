@@ -77,8 +77,8 @@ else
 $file = file("schedule/log");
 $file = array_reverse($file);
 
-if (sizeOf($file) > 5)
-        $size = 5;
+if (sizeOf($file) > 10)
+        $size = 10;
 else
         $size = sizeOf($file);
 
