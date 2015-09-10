@@ -1,4 +1,4 @@
-# Raspberry Pi CentralHeating
+# Raspberry Pi Central Heating
 
 Simple but effective central heating control for the Raspberry Pi. 
 
