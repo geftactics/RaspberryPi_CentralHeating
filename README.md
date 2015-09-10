@@ -22,6 +22,7 @@ From iPhone:
 Disclaimers:
 
  1) I'm not really a coder, so there may be odd, messy, stupid stuff here. It seems to work though! :)
+ 
  2) Implimenting this involves messing with potential high voltage. Make sure you know what you;re doing! Don't get dead!
 
 
