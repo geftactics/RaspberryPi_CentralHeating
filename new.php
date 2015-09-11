@@ -43,13 +43,32 @@
 			<div class="col-xs-3"><span class="label label-primary"><?= getTemp(); ?>&deg;C</span></div>
 			<div class="col-xs-6"></div>
 		</div>
+
 		<div class="row">
 			<div class="col-xs-12"> &nbsp;</div>
 		</div>
 
+		<div class="row">
+			<div class="col-xs-6">
+				<label for="activation">Activation below:</label>
+				<select name="activation" class="form-control input-lg">
+					<option>12&deg;C</option>
+				</select>
+			</div>
+			<div class="col-xs-6"></div>
+		</div>
 
+		<div class="row">
+			<div class="col-xs-12"> &nbsp;</div>
+		</div>
 
-		Boost button<br/>activation setting
+		<div class="row">
+			<div class="col-xs-12"><button type="button" class="btn btn-default">Enable Boost</button></div>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12"> &nbsp;</div>
+		</div>
 
 
 
