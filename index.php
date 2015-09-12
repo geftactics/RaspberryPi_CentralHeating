@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8">
     <title>Central Heating</title>
+    <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="viewport" content="minimum-scale=1.0, width=device-width, maximum-scale=0.6667, user-scalable=no">
-    <meta content="yes" name="apple-mobile-web-app-capable" />
-    <link rel="apple-touch-icon" href="img/homescreen.png"/>
+    <link rel="apple-touch-icon" href="img/homescreen.png">
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
 </head>
@@ -27,24 +27,24 @@
 	<div class="container">
 
 		<div class="row">
-			<div class="col-xs-6 col-md-2"><h4>Heating Status:</h4></div>
-			<div class="col-xs-6 col-md-2"><h4><span class="label <?= getHeatingColor(); ?> col-xs-12 col-md-12"><?= getHeatingStatus(); ?></span></h4></div>
-			<div class="col-xs-0 col-md-8"></div>
+			<div class="col-xs-6 col-sm-3 col-md-2"><h4>Heating Status:</h4></div>
+			<div class="col-xs-6 col-sm-3 col-md-2"><h4><span class="label <?= getHeatingColor(); ?> col-xs-12 col-md-12"><?= getHeatingStatus(); ?></span></h4></div>
+			<div class="col-xs-0 col-sm-6 col-md-8"></div>
 		</div>
 		<div class="row">
-			<div class="col-xs-6 col-md-2"><h4>Boost Status:</h4></div>
-			<div class="col-xs-6 col-md-2"><h4><span class="label <?= getBoostColor(); ?> col-xs-12 col-md-12"><?= getBoostStatus(); ?>  <? if (isBoostActive()) { echo "(" . getBoostRemaining() . "m left)"; } ?></span></h4></div>
-			<div class="col-xs-0 col-md-8"></div>
+			<div class="col-xs-6 col-sm-3 col-md-2"><h4>Boost Status:</h4></div>
+			<div class="col-xs-6 col-sm-3 col-md-2"><h4><span class="label <?= getBoostColor(); ?> col-xs-12 col-md-12"><?= getBoostStatus(); ?>  <? if (isBoostActive()) { echo "(" . getBoostRemaining() . "m left)"; } ?></span></h4></div>
+			<div class="col-xs-0 col-sm-6 col-md-8"></div>
 		</div>
 		<div class="row">
-			<div class="col-xs-6 col-md-2"><h4>Next Change:</h4></div>
-			<div class="col-xs-6 col-md-2"><h4><span class="label label-primary col-xs-12 col-md-12"><?= getNextChange(); ?></span></div>
-			<div class="col-xs-0 col-md-8"></div>
+			<div class="col-xs-6 col-sm-3 col-md-2"><h4>Next Change:</h4></div>
+			<div class="col-xs-6 col-sm-3 col-md-2"><h4><span class="label label-primary col-xs-12 col-md-12"><?= getNextChange(); ?></span></div>
+			<div class="col-xs-0 col-sm-6 col-md-8"></div>
 		</div>
 		<div class="row">
-			<div class="col-xs-6 col-md-2"><h4>Ext Temp:</h4></div>
-			<div class="col-xs-6 col-md-2"><h4><span class="label label-primary col-xs-12 col-md-12"><?= getTemp(); ?>&deg;C</span></h4></div>
-			<div class="col-xs-0 col-md-8"></div>
+			<div class="col-xs-6 col-sm-3 col-md-2"><h4>Ext Temp:</h4></div>
+			<div class="col-xs-6 col-sm-3 col-md-2"><h4><span class="label label-primary col-xs-12 col-md-12"><?= getTemp(); ?>&deg;C</span></h4></div>
+			<div class="col-xs-0 col-sm-6 col-md-8"></div>
 		</div>
 
 		<div class="row">
@@ -52,7 +52,7 @@
 		</div>
 
 		<div class="row">
-			<div class="col-xs-12 col-md-4">
+			<div class="col-xs-12 col-sm-6 col-md-4">
 				<form action="boost.php">
 				<?
 
@@ -72,7 +72,7 @@
 		</div>
 
 		<div class="row">
-			<div class="col-xs-12 col-md-4">
+			<div class="col-xs-12 col-sm-6 col-md-4">
 				<form action="temp.php">
 					<label for="activation">Activation below:</label>
 					<select name="temp" class="form-control" onchange="this.form.submit()">
@@ -92,7 +92,7 @@
 			<div class="col-xs-12"><br/></div>
 		</div>
 
-		<div class="hidden-xs">
+		<div class="row hidden-xs">
 		<table cellpadding="0" cellspacing="0">
 		<?
 		$dayName = array("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun");
@@ -120,7 +120,6 @@
 		?>
 		</table>
 		</div>
-
 
 		<div class="row">
 			<div class="col-xs-12"> &nbsp;</div>
