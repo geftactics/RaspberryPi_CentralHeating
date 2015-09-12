@@ -99,9 +99,9 @@ function getHeatingStatus() {
 
 function getHeatingColor() {
 	if (isHeatingActive())
-		return "Orange";
+		return "label-warning";
 	else
-		return "#9C9C9C";
+		return "label-default";
 }
 
 function isBoostActive() {
@@ -120,9 +120,9 @@ function getBoostStatus() {
 
 function getBoostColor() {
 	if (isBoostActive())
-		return "Orange";
+		return "label-warning";
 	else
-		return "#9C9C9C";
+		return "label-default";
 }
 
 function getBoostRemaining() {
