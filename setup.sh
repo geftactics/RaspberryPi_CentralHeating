@@ -22,3 +22,6 @@ echo "exit 0" >> /etc/rc.local
 
 # Create crontab file to run manager every 60 seconds
 echo "* * * * * /usr/bin/php /var/www/heating/manager.php >/dev/null 2>&1" > /etc/cron.d/heating
+
+# Copy crontab defaults file to turn cron logging off
+cp sysconfig/cron.defaults /etc/default/cron

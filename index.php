@@ -5,7 +5,7 @@
     <title>Central Heating</title>
     <meta name="viewport" content="minimum-scale=1.0, width=device-width, maximum-scale=0.6667, user-scalable=no">
     <meta content="yes" name="apple-mobile-web-app-capable" />
-    <link rel="apple-touch-icon" href="homescreen.png"/>
+    <link rel="apple-touch-icon" href="img/homescreen.png"/>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
 </head>
