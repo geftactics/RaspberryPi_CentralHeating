@@ -27,11 +27,3 @@ Disclaimers:
 
 
 
-Still todo:
-
- 1) Better/responsive web interface - I stopped learning HTML around the time CSS was invented ;)
- 
- 2) Fix the 'next on' code - It never seems to get it right
- 
- 3) Easy setup script so you can be up and running in minutes on a vanilla Raspbian system
- 

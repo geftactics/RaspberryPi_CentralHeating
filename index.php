@@ -1,13 +1,13 @@
 <!DOCTYPE html><?= include("functions.php"); ?>
 <html>
 <head>
-    <meta charset="utf-8">
+    <meta content="yes" name="apple-mobile-web-app-capable" />
+    <meta content="minimum-scale=1.0, width=device-width, maximum-scale=0.6667, user-scalable=no" name="viewport" />
+    <meta charset="utf-8" />
+    <link rel="apple-touch-icon" href="homescreen.png"/ >
+    <link rel="stylesheet" href="css/bootstrap.min.css"/ >
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css"/ >
     <title>Central Heating</title>
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="viewport" content="minimum-scale=1.0, width=device-width, maximum-scale=0.6667, user-scalable=no">
-    <link rel="apple-touch-icon" href="img/homescreen.png">
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
 </head>
 
 <body>
@@ -33,7 +33,7 @@
 		</div>
 		<div class="row">
 			<div class="col-xs-6 col-sm-3 col-md-2"><h4>Boost Status:</h4></div>
-			<div class="col-xs-6 col-sm-3 col-md-2"><h4><span class="label <?= getBoostColor(); ?> col-xs-12 col-md-12"><?= getBoostStatus(); ?>  <? if (isBoostActive()) { echo "(" . getBoostRemaining() . "m left)"; } ?></span></h4></div>
+			<div class="col-xs-6 col-sm-3 col-md-2"><h4><span class="label <?= getBoostColor(); ?> col-xs-12 col-md-12"><?= getBoostStatus(); ?></span></h4></div>
 			<div class="col-xs-0 col-sm-6 col-md-8"></div>
 		</div>
 		<div class="row">
@@ -75,7 +75,7 @@
 			<div class="col-xs-12 col-sm-6 col-md-4">
 				<form action="temp.php">
 					<label for="activation">Activation below:</label>
-					<select name="temp" class="form-control" onchange="this.form.submit()">
+					<select name="temperature" class="form-control" onchange="this.form.submit()">
 					<?
 					        for($i=20;$i>=0;$i--)
 					                if($i==$tempCold)

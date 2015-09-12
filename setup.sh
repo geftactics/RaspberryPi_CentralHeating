@@ -25,3 +25,4 @@ echo "* * * * * /usr/bin/php /var/www/heating/manager.php >/dev/null 2>&1" > /et
 
 # Copy crontab defaults file to turn cron logging off
 cp sysconfig/cron.defaults /etc/default/cron
+service cron restart
