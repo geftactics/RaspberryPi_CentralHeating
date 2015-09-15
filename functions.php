@@ -40,7 +40,7 @@ function getNextChange() {
 	$dayskip = date("N")-1;
 	for ($day = 0; $day < 7; $day++)
 		for ($hour = 0; $hour <= 23; $hour++)
-			for ($min = 0; $min <= 45; $min=$min+15)
+			for ($min = 0; $min <= 60; $min=$min+15)
 				if ($day >= $dayskip && $hour >= $hourskip && $min >= $minskip){ 
 					$minskip=0;
 					$hourskip=0;
@@ -64,7 +64,7 @@ function getNextChange() {
 	$dayskip = date("N")-1;
 	for ($day = 0; $day < 7; $day++)
 		for ($hour = 0; $hour <= 23; $hour++)
-			for ($min = 0; $min <= 45; $min=$min+15)
+			for ($min = 0; $min <= 60; $min=$min+15)
 				if ($day <= $dayskip && $hour <= $hourskip && $min <= $minskip) {
 					$minskip=0;
 					$hourskip=0;

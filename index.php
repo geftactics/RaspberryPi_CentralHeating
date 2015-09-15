@@ -1,13 +1,14 @@
-<!DOCTYPE html><?= include("functions.php"); ?>
+<!DOCTYPE html><? include("functions.php"); ?>
 <html>
 <head>
-    <meta content="yes" name="apple-mobile-web-app-capable" />
-    <meta content="minimum-scale=1.0, width=device-width, maximum-scale=0.6667, user-scalable=no" name="viewport" />
-    <meta charset="utf-8" />
-    <link rel="apple-touch-icon" href="homescreen.png"/ >
+    <title>Central Heating</title>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Central Heating">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <meta name="viewport" content="initial-scale=1">
     <link rel="stylesheet" href="css/bootstrap.min.css"/ >
     <link rel="stylesheet" href="css/bootstrap-theme.min.css"/ >
-    <title>Central Heating</title>
 </head>
 
 <body>
