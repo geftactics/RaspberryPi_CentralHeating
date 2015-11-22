@@ -1188,3 +1188,856 @@
 14/09/15 @ 08:00 Heating Off (Timer inactive)
 15/09/15 @ 06:00 Heating On (Timer active & temp below 10 C)
 15/09/15 @ 07:30 Heating Off (Timer inactive)
+15/09/15 @ 19:54 Boost Activated
+15/09/15 @ 20:14 Boost Expired
+15/09/15 @ 20:14 Heating Off (Timer inactive & temp above 10 C)
+15/09/15 @ 20:14 Boost Activated
+15/09/15 @ 20:32 Boost Cancelled
+16/09/15 @ 06:00 Heating On (Timer active & temp below 10 C)
+16/09/15 @ 07:30 Heating Off (Timer inactive)
+16/09/15 @ 22:38 Boost Activated
+16/09/15 @ 22:38 Boost Cancelled
+17/09/15 @ 06:00 Heating On (Timer active & temp below 10 C)
+17/09/15 @ 07:00 Heating Off (Timer inactive)
+17/09/15 @ 17:41 Boost Activated
+17/09/15 @ 18:01 Boost Expired
+17/09/15 @ 18:01 Heating Off (Temp above 10 C)
+17/09/15 @ 18:42 Boost Activated
+17/09/15 @ 19:02 Boost Expired
+17/09/15 @ 19:02 Heating Off (Temp above 10 C)
+18/09/15 @ 06:00 Heating On (Timer active & temp below 10 C)
+18/09/15 @ 07:00 Heating Off (Timer inactive)
+19/09/15 @ 06:22 Boost Activated
+19/09/15 @ 06:46 Boost Cancelled
+19/09/15 @ 06:47 Heating On (Timer active & temp below 10 C)
+19/09/15 @ 07:00 Heating Off (Timer inactive)
+19/09/15 @ 07:15 Heating On (Timer active & temp below 10 C)
+19/09/15 @ 08:45 Heating Off (Timer inactive)
+19/09/15 @ 09:01 Heating On (Timer active & temp below 10 C)
+19/09/15 @ 09:04 Heating Off (Temp above 10 C)
+19/09/15 @ 09:05 Heating On (Timer active & temp below 10 C)
+19/09/15 @ 09:08 Heating Off (Temp above 10 C)
+20/09/15 @ 06:30 Heating On (Timer active & temp below 10 C)
+20/09/15 @ 07:00 Heating Off (Timer inactive)
+20/09/15 @ 07:15 Heating On (Timer active & temp below 10 C)
+20/09/15 @ 08:45 Heating Off (Timer inactive)
+20/09/15 @ 09:00 Heating On (Timer active & temp below 10 C)
+20/09/15 @ 09:15 Heating Off (Timer inactive)
+20/09/15 @ 12:44 Boost Activated
+20/09/15 @ 13:04 Boost Expired
+20/09/15 @ 13:04 Heating Off (Temp above 10 C)
+20/09/15 @ 18:33 Boost Activated
+20/09/15 @ 19:00 Boost Expired
+20/09/15 @ 19:00 Heating Off (Temp above 10 C)
+21/09/15 @ 18:32 Boost Activated
+21/09/15 @ 19:00 Boost Expired
+21/09/15 @ 19:00 Heating Off (Temp above 10 C)
+22/09/15 @ 06:00 Heating On (Timer active & temp below 10 C)
+22/09/15 @ 07:00 Heating Off (Timer inactive)
+22/09/15 @ 17:06 Boost Activated
+22/09/15 @ 18:00 Boost Expired
+22/09/15 @ 18:00 Heating Off (Temp above 10 C)
+22/09/15 @ 18:10 Boost Activated
+22/09/15 @ 19:00 Boost Expired
+22/09/15 @ 19:00 Heating Off (Temp above 10 C)
+22/09/15 @ 19:03 Boost Activated
+22/09/15 @ 19:14 Boost Cancelled
+23/09/15 @ 06:00 Heating On (Timer active & temp below 10 C)
+23/09/15 @ 07:00 Heating Off (Timer inactive)
+23/09/15 @ 19:32 Boost Activated
+23/09/15 @ 20:00 Boost Expired
+23/09/15 @ 20:00 Heating Off (Timer inactive & temp above 10 C)
+24/09/15 @ 06:00 Heating On (Timer active & temp below 10 C)
+24/09/15 @ 07:00 Heating Off (Timer inactive)
+24/09/15 @ 17:06 Boost Activated
+24/09/15 @ 18:00 Boost Expired
+24/09/15 @ 18:00 Heating Off (Temp above 10 C)
+25/09/15 @ 06:00 Heating On (Timer active & temp below 10 C)
+25/09/15 @ 07:00 Heating Off (Timer inactive)
+25/09/15 @ 17:28 Boost Activated
+25/09/15 @ 18:00 Boost Expired
+25/09/15 @ 18:00 Heating Off (Temp above 10 C)
+25/09/15 @ 18:13 Boost Activated
+25/09/15 @ 19:00 Boost Expired
+25/09/15 @ 19:00 Heating Off (Temp above 10 C)
+25/09/15 @ 21:33 Boost Activated
+25/09/15 @ 21:33 Boost Cancelled
+25/09/15 @ 21:34 Boost Activated
+25/09/15 @ 21:34 Boost Cancelled
+26/09/15 @ 06:30 Heating On (Timer active & temp below 10 C)
+26/09/15 @ 07:00 Heating Off (Timer inactive)
+26/09/15 @ 07:15 Heating On (Timer active & temp below 10 C)
+26/09/15 @ 08:45 Heating Off (Timer inactive)
+26/09/15 @ 09:00 Heating On (Timer active & temp below 10 C)
+26/09/15 @ 09:15 Heating Off (Timer inactive)
+27/09/15 @ 06:30 Heating On (Timer active & temp below 10 C)
+27/09/15 @ 07:00 Heating Off (Timer inactive)
+27/09/15 @ 07:15 Heating On (Timer active & temp below 10 C)
+27/09/15 @ 08:37 Boost Activated
+27/09/15 @ 09:00 Boost Expired
+27/09/15 @ 09:15 Heating Off (Timer inactive)
+27/09/15 @ 12:00 Heating On (Timer active & temp below 10 C)
+27/09/15 @ 12:15 Heating Off (Timer inactive)
+27/09/15 @ 12:30 Heating On (Timer active & temp below 10 C)
+27/09/15 @ 12:39 Heating Off (Temp above 10 C)
+27/09/15 @ 12:40 Heating On (Timer active & temp below 10 C)
+27/09/15 @ 12:42 Heating Off (Temp above 10 C)
+27/09/15 @ 12:43 Heating On (Timer active & temp below 10 C)
+27/09/15 @ 12:45 Heating Off (Timer inactive & temp above 10 C)
+27/09/15 @ 18:28 Boost Activated
+27/09/15 @ 19:00 Boost Expired
+27/09/15 @ 19:00 Heating Off (Temp above 10 C)
+28/09/15 @ 06:00 Heating On (Timer active & temp below 10 C)
+28/09/15 @ 07:00 Heating Off (Timer inactive)
+28/09/15 @ 18:18 Boost Activated
+28/09/15 @ 19:00 Boost Expired
+28/09/15 @ 19:00 Heating Off (Temp above 10 C)
+28/09/15 @ 19:34 Boost Activated
+28/09/15 @ 20:00 Boost Expired
+28/09/15 @ 20:00 Heating Off (Timer inactive & temp above 10 C)
+29/09/15 @ 06:00 Heating On (Timer active & temp below 10 C)
+29/09/15 @ 07:00 Heating Off (Timer inactive)
+29/09/15 @ 17:44 Boost Activated
+29/09/15 @ 18:04 Boost Expired
+29/09/15 @ 18:04 Heating Off (Temp above 10 C)
+29/09/15 @ 18:16 Boost Activated
+29/09/15 @ 19:00 Boost Expired
+29/09/15 @ 19:00 Heating Off (Temp above 10 C)
+29/09/15 @ 19:22 Boost Activated
+29/09/15 @ 20:00 Boost Expired
+29/09/15 @ 20:00 Heating Off (Timer inactive & temp above 10 C)
+30/09/15 @ 06:00 Heating On (Timer active & temp below 10 C)
+30/09/15 @ 07:00 Heating Off (Timer inactive)
+30/09/15 @ 11:46 Boost Activated
+30/09/15 @ 12:06 Boost Expired
+30/09/15 @ 12:06 Heating Off (Timer inactive & temp above 10 C)
+01/10/15 @ 06:00 Heating On (Timer active & temp below 10 C)
+01/10/15 @ 07:00 Heating Off (Timer inactive)
+01/10/15 @ 15:53 Boost Activated
+01/10/15 @ 16:13 Boost Expired
+01/10/15 @ 16:13 Heating Off (Timer inactive & temp above 10 C)
+01/10/15 @ 18:57 Boost Activated
+01/10/15 @ 19:17 Boost Expired
+01/10/15 @ 19:17 Heating Off (Timer inactive & temp above 10 C)
+01/10/15 @ 20:24 Boost Activated
+01/10/15 @ 21:00 Boost Expired
+01/10/15 @ 21:00 Heating Off (Timer inactive)
+02/10/15 @ 06:00 Heating On (Timer active & temp below 10 C)
+02/10/15 @ 07:00 Heating Off (Timer inactive)
+02/10/15 @ 17:01 Boost Activated
+02/10/15 @ 18:00 Boost Expired
+02/10/15 @ 18:00 Heating Off (Temp above 10 C)
+03/10/15 @ 06:30 Heating On (Timer active & temp below 10 C)
+03/10/15 @ 07:00 Heating Off (Timer inactive)
+03/10/15 @ 07:15 Heating On (Timer active & temp below 10 C)
+03/10/15 @ 08:45 Heating Off (Timer inactive)
+03/10/15 @ 09:00 Heating On (Timer active & temp below 10 C)
+03/10/15 @ 09:15 Heating Off (Timer inactive)
+03/10/15 @ 10:06 Boost Activated
+03/10/15 @ 10:06 Boost Cancelled
+03/10/15 @ 12:00 Heating On (Timer active & temp below 10 C)
+03/10/15 @ 12:15 Heating Off (Timer inactive)
+03/10/15 @ 12:30 Heating On (Timer active & temp below 10 C)
+03/10/15 @ 12:45 Heating Off (Timer inactive)
+03/10/15 @ 13:00 Heating On (Timer active & temp below 10 C)
+03/10/15 @ 13:15 Heating Off (Timer inactive)
+03/10/15 @ 13:30 Heating On (Timer active & temp below 10 C)
+03/10/15 @ 13:45 Heating Off (Timer inactive)
+03/10/15 @ 15:30 Boost Activated
+03/10/15 @ 16:00 Boost Expired
+03/10/15 @ 16:00 Heating Off (Timer inactive & temp above 10 C)
+03/10/15 @ 17:12 Boost Activated
+03/10/15 @ 18:00 Boost Expired
+03/10/15 @ 18:30 Heating Off (Timer inactive)
+03/10/15 @ 18:45 Heating On (Timer active & temp below 10 C)
+03/10/15 @ 19:15 Heating Off (Timer inactive)
+03/10/15 @ 19:30 Heating On (Timer active & temp below 10 C)
+03/10/15 @ 20:00 Heating Off (Timer inactive)
+03/10/15 @ 20:00 Boost Activated
+03/10/15 @ 20:48 Boost Cancelled
+03/10/15 @ 20:48 Boost Activated
+03/10/15 @ 21:08 Boost Expired
+03/10/15 @ 21:08 Heating Off (Timer inactive)
+03/10/15 @ 22:00 Boost Activated
+03/10/15 @ 23:00 Boost Expired
+03/10/15 @ 23:00 Heating Off (Timer inactive)
+04/10/15 @ 06:30 Heating On (Timer active & temp below 10 C)
+04/10/15 @ 07:00 Heating Off (Timer inactive)
+04/10/15 @ 07:15 Heating On (Timer active & temp below 10 C)
+04/10/15 @ 08:28 Boost Activated
+04/10/15 @ 09:00 Boost Expired
+04/10/15 @ 09:15 Heating Off (Timer inactive)
+04/10/15 @ 09:33 Boost Activated
+04/10/15 @ 10:00 Boost Expired
+04/10/15 @ 10:00 Heating Off (Timer inactive)
+04/10/15 @ 10:29 Boost Activated
+04/10/15 @ 11:00 Boost Expired
+04/10/15 @ 11:00 Heating Off (Timer inactive)
+04/10/15 @ 11:54 Boost Activated
+04/10/15 @ 12:14 Boost Expired
+04/10/15 @ 12:15 Heating Off (Timer inactive)
+04/10/15 @ 12:23 Boost Activated
+04/10/15 @ 13:00 Boost Expired
+04/10/15 @ 13:00 Heating Off (Temp above 10 C)
+04/10/15 @ 19:48 Heating On (Timer active & temp below 10 C)
+04/10/15 @ 19:49 Heating Off (Temp above 10 C)
+04/10/15 @ 19:51 Heating On (Timer active & temp below 10 C)
+04/10/15 @ 19:52 Heating Off (Temp above 10 C)
+04/10/15 @ 19:53 Heating On (Timer active & temp below 10 C)
+04/10/15 @ 20:00 Heating Off (Timer inactive)
+05/10/15 @ 06:00 Heating On (Timer active & temp below 10 C)
+05/10/15 @ 07:00 Heating Off (Timer inactive)
+05/10/15 @ 17:02 Boost Activated
+05/10/15 @ 18:00 Boost Expired
+05/10/15 @ 18:00 Heating Off (Temp above 10 C)
+06/10/15 @ 07:09 Boost Activated
+06/10/15 @ 08:00 Boost Expired
+06/10/15 @ 08:00 Heating Off (Timer inactive & temp above 10 C)
+06/10/15 @ 20:19 Boost Activated
+06/10/15 @ 21:00 Boost Expired
+06/10/15 @ 21:00 Heating Off (Timer inactive & temp above 10 C)
+07/10/15 @ 06:49 Boost Activated
+07/10/15 @ 07:09 Boost Expired
+07/10/15 @ 07:09 Heating Off (Timer inactive & temp above 10 C)
+07/10/15 @ 18:55 Heating On (Timer active & temp below 10 C)
+07/10/15 @ 19:15 Heating Off (Timer inactive)
+07/10/15 @ 19:29 Boost Activated
+07/10/15 @ 19:30 Boost Cancelled
+08/10/15 @ 06:00 Heating On (Timer active & temp below 10 C)
+08/10/15 @ 07:00 Heating Off (Timer inactive)
+08/10/15 @ 16:59 Boost Activated
+08/10/15 @ 16:59 Boost Cancelled
+08/10/15 @ 17:07 Boost Activated
+08/10/15 @ 17:07 Boost Cancelled
+08/10/15 @ 17:08 Boost Activated
+08/10/15 @ 18:00 Boost Expired
+08/10/15 @ 18:00 Heating Off (Temp above 10 C)
+09/10/15 @ 06:00 Heating On (Timer active & temp below 10 C)
+09/10/15 @ 07:00 Heating Off (Timer inactive)
+09/10/15 @ 16:26 Boost Activated
+09/10/15 @ 17:00 Boost Expired
+09/10/15 @ 17:00 Heating Off (Temp above 10 C)
+10/10/15 @ 06:30 Heating On (Timer active & temp below 10 C)
+10/10/15 @ 07:00 Heating Off (Timer inactive)
+10/10/15 @ 07:15 Heating On (Timer active & temp below 10 C)
+10/10/15 @ 08:45 Heating Off (Timer inactive)
+10/10/15 @ 09:00 Heating On (Timer active & temp below 10 C)
+10/10/15 @ 09:15 Heating Off (Timer inactive)
+10/10/15 @ 11:00 Boost Activated
+10/10/15 @ 12:00 Boost Expired
+10/10/15 @ 12:00 Heating Off (Temp above 10 C)
+10/10/15 @ 19:44 Heating On (Timer active & temp below 10 C)
+10/10/15 @ 19:47 Heating Off (Temp above 10 C)
+10/10/15 @ 19:51 Heating On (Timer active & temp below 10 C)
+10/10/15 @ 19:53 Heating Off (Temp above 10 C)
+10/10/15 @ 19:54 Heating On (Timer active & temp below 10 C)
+10/10/15 @ 19:58 Heating Off (Temp above 10 C)
+10/10/15 @ 19:59 Heating On (Timer active & temp below 10 C)
+10/10/15 @ 20:00 Heating Off (Timer inactive)
+11/10/15 @ 06:30 Heating On (Timer active & temp below 10 C)
+11/10/15 @ 07:00 Heating Off (Timer inactive)
+11/10/15 @ 07:15 Heating On (Timer active & temp below 10 C)
+11/10/15 @ 08:42 Boost Activated
+11/10/15 @ 09:02 Boost Expired
+11/10/15 @ 09:15 Heating Off (Timer inactive)
+11/10/15 @ 10:40 Boost Activated
+11/10/15 @ 11:00 Boost Expired
+11/10/15 @ 11:00 Heating Off (Timer inactive)
+11/10/15 @ 12:00 Heating On (Timer active & temp below 10 C)
+11/10/15 @ 12:15 Heating Off (Timer inactive)
+11/10/15 @ 12:30 Heating On (Timer active & temp below 10 C)
+11/10/15 @ 12:45 Heating Off (Timer inactive)
+11/10/15 @ 13:06 Heating On (Timer active & temp below 10 C)
+11/10/15 @ 13:07 Heating Off (Temp above 10 C)
+11/10/15 @ 14:13 Boost Activated
+11/10/15 @ 14:14 Boost Cancelled
+11/10/15 @ 15:11 Boost Activated
+11/10/15 @ 16:00 Boost Expired
+11/10/15 @ 16:00 Heating Off (Timer inactive & temp above 11 C)
+11/10/15 @ 18:00 Heating On (Timer active & temp below 11 C)
+11/10/15 @ 18:30 Heating Off (Timer inactive)
+11/10/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+11/10/15 @ 19:15 Heating Off (Timer inactive)
+11/10/15 @ 19:30 Heating On (Timer active & temp below 11 C)
+11/10/15 @ 20:00 Heating Off (Timer inactive)
+12/10/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+12/10/15 @ 07:00 Heating Off (Timer inactive)
+12/10/15 @ 07:23 Boost Activated
+12/10/15 @ 08:00 Boost Expired
+12/10/15 @ 08:00 Heating Off (Timer inactive)
+12/10/15 @ 16:41 Boost Activated
+12/10/15 @ 17:01 Boost Expired
+12/10/15 @ 17:30 Heating Off (Timer inactive)
+12/10/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+12/10/15 @ 18:30 Heating Off (Timer inactive)
+12/10/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+12/10/15 @ 19:15 Heating Off (Timer inactive)
+13/10/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+13/10/15 @ 07:00 Heating Off (Timer inactive)
+13/10/15 @ 11:35 Boost Activated
+13/10/15 @ 12:00 Boost Expired
+13/10/15 @ 12:00 Heating Off (Timer inactive)
+13/10/15 @ 16:49 Boost Activated
+13/10/15 @ 17:09 Boost Expired
+13/10/15 @ 17:30 Heating Off (Timer inactive)
+13/10/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+13/10/15 @ 18:30 Heating Off (Timer inactive)
+13/10/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+13/10/15 @ 19:15 Heating Off (Timer inactive)
+13/10/15 @ 21:14 Boost Activated
+13/10/15 @ 22:00 Boost Expired
+13/10/15 @ 22:00 Heating Off (Timer inactive)
+14/10/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+14/10/15 @ 07:00 Heating Off (Timer inactive)
+14/10/15 @ 17:00 Heating On (Timer active & temp below 11 C)
+14/10/15 @ 17:30 Heating Off (Timer inactive)
+14/10/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+14/10/15 @ 18:30 Heating Off (Timer inactive)
+14/10/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+14/10/15 @ 19:15 Heating Off (Timer inactive)
+15/10/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+15/10/15 @ 07:00 Heating Off (Timer inactive)
+15/10/15 @ 16:58 Boost Activated
+15/10/15 @ 17:18 Boost Expired
+15/10/15 @ 17:30 Heating Off (Timer inactive)
+15/10/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+15/10/15 @ 18:30 Heating Off (Timer inactive)
+15/10/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+15/10/15 @ 19:15 Heating Off (Timer inactive)
+15/10/15 @ 19:57 Boost Activated
+15/10/15 @ 20:17 Boost Expired
+15/10/15 @ 20:17 Heating Off (Timer inactive)
+16/10/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+16/10/15 @ 07:00 Heating Off (Timer inactive)
+16/10/15 @ 07:46 Boost Activated
+16/10/15 @ 08:06 Boost Expired
+16/10/15 @ 08:06 Heating Off (Timer inactive)
+16/10/15 @ 11:36 Boost Activated
+16/10/15 @ 12:00 Boost Expired
+16/10/15 @ 12:00 Heating Off (Timer inactive)
+16/10/15 @ 13:40 Boost Activated
+16/10/15 @ 14:00 Boost Expired
+16/10/15 @ 14:00 Heating Off (Timer inactive)
+16/10/15 @ 16:28 Boost Activated
+16/10/15 @ 17:00 Boost Expired
+16/10/15 @ 17:30 Heating Off (Timer inactive)
+16/10/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+16/10/15 @ 18:30 Heating Off (Timer inactive)
+16/10/15 @ 18:32 Boost Activated
+16/10/15 @ 19:00 Boost Expired
+16/10/15 @ 19:15 Heating Off (Timer inactive)
+17/10/15 @ 06:30 Heating On (Timer active & temp below 11 C)
+17/10/15 @ 07:00 Heating Off (Timer inactive)
+17/10/15 @ 07:15 Heating On (Timer active & temp below 11 C)
+17/10/15 @ 08:45 Heating Off (Timer inactive)
+17/10/15 @ 09:00 Heating On (Timer active & temp below 11 C)
+17/10/15 @ 09:15 Heating Off (Timer inactive)
+17/10/15 @ 11:28 Boost Activated
+17/10/15 @ 12:00 Boost Expired
+17/10/15 @ 12:15 Heating Off (Timer inactive)
+17/10/15 @ 12:30 Heating On (Timer active & temp below 11 C)
+17/10/15 @ 12:45 Heating Off (Timer inactive)
+17/10/15 @ 13:00 Heating On (Timer active & temp below 11 C)
+17/10/15 @ 13:15 Heating Off (Timer inactive)
+17/10/15 @ 13:30 Heating On (Timer active & temp below 11 C)
+17/10/15 @ 13:45 Heating Off (Timer inactive)
+17/10/15 @ 18:00 Heating On (Timer active & temp below 11 C)
+17/10/15 @ 18:30 Heating Off (Timer inactive)
+17/10/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+17/10/15 @ 19:15 Heating Off (Timer inactive)
+17/10/15 @ 19:30 Heating On (Timer active & temp below 11 C)
+17/10/15 @ 20:00 Heating Off (Timer inactive)
+18/10/15 @ 06:30 Heating On (Timer active & temp below 11 C)
+18/10/15 @ 07:00 Heating Off (Timer inactive)
+18/10/15 @ 07:15 Heating On (Timer active & temp below 11 C)
+18/10/15 @ 08:45 Heating Off (Timer inactive)
+18/10/15 @ 08:54 Boost Activated
+18/10/15 @ 09:14 Boost Expired
+18/10/15 @ 09:15 Heating Off (Timer inactive)
+18/10/15 @ 09:45 Boost Activated
+18/10/15 @ 10:05 Boost Expired
+18/10/15 @ 10:05 Heating Off (Timer inactive)
+18/10/15 @ 10:24 Boost Activated
+18/10/15 @ 11:00 Boost Expired
+18/10/15 @ 11:00 Heating Off (Timer inactive)
+18/10/15 @ 11:25 Boost Activated
+18/10/15 @ 12:00 Boost Expired
+18/10/15 @ 12:15 Heating Off (Timer inactive)
+18/10/15 @ 12:30 Heating On (Timer active & temp below 11 C)
+18/10/15 @ 12:45 Heating Off (Timer inactive)
+18/10/15 @ 13:00 Heating On (Timer active & temp below 11 C)
+18/10/15 @ 13:15 Heating Off (Timer inactive)
+18/10/15 @ 13:30 Heating On (Timer active & temp below 11 C)
+18/10/15 @ 13:45 Heating Off (Timer inactive)
+18/10/15 @ 18:00 Heating On (Timer active & temp below 11 C)
+18/10/15 @ 18:30 Heating Off (Timer inactive)
+18/10/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+18/10/15 @ 19:15 Heating Off (Timer inactive)
+18/10/15 @ 19:30 Heating On (Timer active & temp below 11 C)
+18/10/15 @ 20:00 Heating Off (Timer inactive)
+19/10/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+19/10/15 @ 07:00 Heating Off (Timer inactive)
+19/10/15 @ 07:08 Boost Activated
+19/10/15 @ 08:00 Boost Expired
+19/10/15 @ 08:00 Heating Off (Timer inactive)
+19/10/15 @ 16:43 Boost Activated
+19/10/15 @ 17:03 Boost Expired
+19/10/15 @ 17:03 Heating Off (Temp above 11 C)
+19/10/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+19/10/15 @ 17:45 Boost Activated
+19/10/15 @ 18:05 Boost Expired
+19/10/15 @ 18:30 Heating Off (Timer inactive)
+19/10/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+19/10/15 @ 19:15 Heating Off (Timer inactive)
+20/10/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+20/10/15 @ 07:00 Heating Off (Timer inactive)
+20/10/15 @ 17:00 Heating On (Timer active & temp below 11 C)
+20/10/15 @ 17:30 Heating Off (Timer inactive)
+20/10/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+20/10/15 @ 18:30 Heating Off (Timer inactive)
+20/10/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+20/10/15 @ 19:15 Heating Off (Timer inactive)
+21/10/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+21/10/15 @ 07:00 Heating Off (Timer inactive)
+22/10/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+22/10/15 @ 07:00 Heating Off (Timer inactive)
+22/10/15 @ 17:00 Heating On (Timer active & temp below 11 C)
+22/10/15 @ 17:30 Heating Off (Timer inactive)
+22/10/15 @ 17:40 Boost Activated
+22/10/15 @ 18:00 Boost Expired
+22/10/15 @ 18:30 Heating Off (Timer inactive)
+22/10/15 @ 18:32 Boost Activated
+22/10/15 @ 19:00 Boost Expired
+22/10/15 @ 19:15 Heating Off (Timer inactive)
+23/10/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+23/10/15 @ 07:00 Heating Off (Timer inactive)
+23/10/15 @ 10:22 Boost Activated
+23/10/15 @ 11:00 Boost Expired
+23/10/15 @ 11:00 Heating Off (Timer inactive)
+23/10/15 @ 16:43 Boost Activated
+23/10/15 @ 17:03 Boost Expired
+23/10/15 @ 17:30 Heating Off (Timer inactive)
+23/10/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+23/10/15 @ 18:30 Heating Off (Timer inactive)
+23/10/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+23/10/15 @ 19:15 Heating Off (Timer inactive)
+24/10/15 @ 06:30 Heating On (Timer active & temp below 11 C)
+24/10/15 @ 07:00 Heating Off (Timer inactive)
+24/10/15 @ 07:15 Heating On (Timer active & temp below 11 C)
+24/10/15 @ 08:45 Heating Off (Timer inactive)
+24/10/15 @ 09:00 Heating On (Timer active & temp below 11 C)
+24/10/15 @ 09:15 Heating Off (Timer inactive)
+24/10/15 @ 10:35 Boost Activated
+24/10/15 @ 11:00 Boost Expired
+24/10/15 @ 11:00 Heating Off (Timer inactive)
+24/10/15 @ 12:00 Heating On (Timer active & temp below 11 C)
+24/10/15 @ 12:15 Heating Off (Timer inactive)
+24/10/15 @ 12:30 Heating On (Timer active & temp below 11 C)
+24/10/15 @ 12:45 Heating Off (Timer inactive)
+24/10/15 @ 13:00 Heating On (Timer active & temp below 11 C)
+24/10/15 @ 13:15 Heating Off (Timer inactive)
+24/10/15 @ 13:30 Heating On (Timer active & temp below 11 C)
+24/10/15 @ 13:45 Heating Off (Timer inactive)
+24/10/15 @ 17:39 Boost Activated
+24/10/15 @ 18:00 Boost Expired
+24/10/15 @ 18:30 Heating Off (Timer inactive)
+24/10/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+24/10/15 @ 19:15 Heating Off (Timer inactive)
+24/10/15 @ 19:30 Heating On (Timer active & temp below 11 C)
+24/10/15 @ 20:00 Heating Off (Timer inactive)
+24/10/15 @ 20:25 Boost Activated
+24/10/15 @ 21:00 Boost Expired
+24/10/15 @ 21:00 Heating Off (Timer inactive)
+25/10/15 @ 06:30 Heating On (Timer active & temp below 11 C)
+25/10/15 @ 07:00 Heating Off (Timer inactive)
+25/10/15 @ 07:13 Boost Activated
+25/10/15 @ 08:00 Boost Expired
+25/10/15 @ 08:45 Heating Off (Timer inactive)
+25/10/15 @ 08:59 Boost Activated
+25/10/15 @ 09:19 Boost Expired
+25/10/15 @ 09:19 Heating Off (Timer inactive)
+25/10/15 @ 12:00 Heating On (Timer active & temp below 11 C)
+25/10/15 @ 12:15 Heating Off (Timer inactive)
+25/10/15 @ 12:30 Heating On (Timer active & temp below 11 C)
+25/10/15 @ 12:45 Heating Off (Timer inactive)
+25/10/15 @ 13:00 Heating On (Timer active & temp below 11 C)
+25/10/15 @ 13:15 Heating Off (Timer inactive)
+25/10/15 @ 13:30 Heating On (Timer active & temp below 11 C)
+25/10/15 @ 13:45 Heating Off (Timer inactive)
+25/10/15 @ 14:45 Boost Activated
+25/10/15 @ 15:05 Boost Expired
+25/10/15 @ 15:05 Heating Off (Timer inactive)
+25/10/15 @ 18:00 Heating On (Timer active & temp below 11 C)
+25/10/15 @ 18:30 Heating Off (Timer inactive)
+25/10/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+25/10/15 @ 19:15 Heating Off (Timer inactive)
+25/10/15 @ 19:30 Heating On (Timer active & temp below 11 C)
+25/10/15 @ 20:00 Heating Off (Timer inactive)
+26/10/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+26/10/15 @ 07:00 Heating Off (Timer inactive)
+26/10/15 @ 09:21 Boost Activated
+26/10/15 @ 10:00 Boost Expired
+26/10/15 @ 10:00 Heating Off (Timer inactive)
+26/10/15 @ 17:00 Heating On (Timer active & temp below 11 C)
+26/10/15 @ 17:30 Heating Off (Timer inactive)
+26/10/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+26/10/15 @ 18:30 Heating Off (Timer inactive)
+26/10/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+26/10/15 @ 19:15 Heating Off (Timer inactive)
+27/10/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+27/10/15 @ 07:00 Heating Off (Timer inactive)
+27/10/15 @ 17:00 Heating On (Timer active & temp below 11 C)
+27/10/15 @ 17:30 Heating Off (Timer inactive)
+27/10/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+27/10/15 @ 18:30 Heating Off (Timer inactive)
+27/10/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+27/10/15 @ 19:15 Heating Off (Timer inactive)
+28/10/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+28/10/15 @ 07:00 Heating Off (Timer inactive)
+28/10/15 @ 16:46 Boost Activated
+28/10/15 @ 17:06 Boost Expired
+28/10/15 @ 17:30 Heating Off (Timer inactive)
+28/10/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+28/10/15 @ 18:30 Heating Off (Timer inactive)
+28/10/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+28/10/15 @ 19:15 Heating Off (Timer inactive)
+29/10/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+29/10/15 @ 07:00 Heating Off (Timer inactive)
+29/10/15 @ 08:25 Boost Activated
+29/10/15 @ 09:00 Boost Expired
+29/10/15 @ 09:00 Heating Off (Timer inactive)
+29/10/15 @ 10:06 Boost Activated
+29/10/15 @ 11:00 Boost Expired
+29/10/15 @ 11:00 Heating Off (Timer inactive)
+29/10/15 @ 12:18 Boost Activated
+29/10/15 @ 13:00 Boost Expired
+29/10/15 @ 13:00 Heating Off (Timer inactive & temp above 11 C)
+29/10/15 @ 17:00 Heating On (Timer active & temp below 11 C)
+29/10/15 @ 17:30 Heating Off (Timer inactive)
+29/10/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+29/10/15 @ 18:30 Heating Off (Timer inactive)
+29/10/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+29/10/15 @ 19:15 Heating Off (Timer inactive)
+30/10/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+30/10/15 @ 07:00 Heating Off (Timer inactive)
+30/10/15 @ 07:48 Boost Activated
+30/10/15 @ 08:08 Boost Expired
+30/10/15 @ 08:08 Heating Off (Timer inactive)
+30/10/15 @ 08:17 Boost Activated
+30/10/15 @ 09:00 Boost Expired
+30/10/15 @ 09:00 Heating Off (Timer inactive)
+30/10/15 @ 09:42 Boost Activated
+30/10/15 @ 10:02 Boost Expired
+30/10/15 @ 10:02 Heating Off (Timer inactive)
+31/10/15 @ 06:30 Heating On (Timer active & temp below 11 C)
+31/10/15 @ 07:00 Heating Off (Timer inactive)
+31/10/15 @ 07:15 Heating On (Timer active & temp below 11 C)
+31/10/15 @ 08:32 Boost Activated
+31/10/15 @ 09:00 Boost Expired
+31/10/15 @ 09:15 Heating Off (Timer inactive)
+31/10/15 @ 19:49 Heating On (Timer active & temp below 11 C)
+31/10/15 @ 19:50 Heating Off (Temp above 11 C)
+31/10/15 @ 19:51 Heating On (Timer active & temp below 11 C)
+31/10/15 @ 19:52 Heating Off (Temp above 11 C)
+31/10/15 @ 19:53 Heating On (Timer active & temp below 11 C)
+31/10/15 @ 19:54 Heating Off (Temp above 11 C)
+31/10/15 @ 19:56 Heating On (Timer active & temp below 11 C)
+31/10/15 @ 20:00 Heating Off (Timer inactive)
+01/11/15 @ 06:30 Heating On (Timer active & temp below 11 C)
+01/11/15 @ 07:00 Heating Off (Timer inactive)
+01/11/15 @ 07:15 Heating On (Timer active & temp below 11 C)
+01/11/15 @ 08:45 Heating Off (Timer inactive)
+01/11/15 @ 09:00 Heating On (Timer active & temp below 11 C)
+01/11/15 @ 09:15 Heating Off (Timer inactive)
+01/11/15 @ 19:50 Heating On (Timer active & temp below 11 C)
+01/11/15 @ 19:55 Heating Off (Temp above 11 C)
+01/11/15 @ 19:56 Heating On (Timer active & temp below 11 C)
+01/11/15 @ 20:00 Heating Off (Timer inactive)
+02/11/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+02/11/15 @ 07:00 Heating Off (Timer inactive)
+02/11/15 @ 17:00 Heating On (Timer active & temp below 11 C)
+02/11/15 @ 17:30 Heating Off (Timer inactive)
+02/11/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+02/11/15 @ 18:30 Heating Off (Timer inactive)
+02/11/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+02/11/15 @ 19:15 Heating Off (Timer inactive)
+03/11/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+03/11/15 @ 07:00 Heating Off (Timer inactive)
+03/11/15 @ 12:22 Boost Activated
+03/11/15 @ 13:00 Boost Expired
+03/11/15 @ 13:00 Heating Off (Timer inactive)
+03/11/15 @ 14:09 Boost Activated
+03/11/15 @ 15:00 Boost Expired
+03/11/15 @ 15:00 Heating Off (Timer inactive)
+03/11/15 @ 16:24 Boost Activated
+03/11/15 @ 17:00 Boost Expired
+03/11/15 @ 17:30 Heating Off (Timer inactive)
+03/11/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+03/11/15 @ 18:30 Heating Off (Timer inactive)
+03/11/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+03/11/15 @ 19:15 Heating Off (Timer inactive)
+04/11/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+04/11/15 @ 07:00 Heating Off (Timer inactive)
+04/11/15 @ 17:00 Heating On (Timer active & temp below 11 C)
+04/11/15 @ 17:30 Heating Off (Timer inactive)
+04/11/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+04/11/15 @ 18:30 Heating Off (Timer inactive)
+04/11/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+04/11/15 @ 19:15 Heating Off (Timer inactive)
+05/11/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+05/11/15 @ 07:00 Heating Off (Timer inactive)
+05/11/15 @ 16:02 Boost Activated
+05/11/15 @ 17:00 Boost Expired
+05/11/15 @ 17:00 Heating Off (Temp above 11 C)
+05/11/15 @ 19:18 Boost Activated
+05/11/15 @ 20:00 Boost Expired
+05/11/15 @ 20:00 Heating Off (Timer inactive & temp above 11 C)
+06/11/15 @ 16:30 Boost Activated
+06/11/15 @ 17:00 Boost Expired
+06/11/15 @ 17:00 Heating Off (Temp above 11 C)
+06/11/15 @ 20:11 Boost Activated
+06/11/15 @ 21:00 Boost Expired
+06/11/15 @ 21:00 Heating Off (Timer inactive & temp above 11 C)
+07/11/15 @ 06:30 Heating On (Timer active & temp below 11 C)
+07/11/15 @ 07:00 Heating Off (Timer inactive)
+07/11/15 @ 07:15 Heating On (Timer active & temp below 11 C)
+07/11/15 @ 08:45 Heating Off (Timer inactive)
+07/11/15 @ 09:00 Heating On (Timer active & temp below 11 C)
+07/11/15 @ 09:15 Heating Off (Timer inactive)
+07/11/15 @ 12:44 Heating On (Timer active & temp below 11 C)
+07/11/15 @ 12:45 Heating Off (Timer inactive)
+07/11/15 @ 13:00 Heating On (Timer active & temp below 11 C)
+07/11/15 @ 13:15 Heating Off (Timer inactive)
+07/11/15 @ 13:30 Heating On (Timer active & temp below 11 C)
+07/11/15 @ 13:44 Heating Off (Temp above 11 C)
+07/11/15 @ 18:00 Heating On (Timer active & temp below 11 C)
+07/11/15 @ 18:30 Heating Off (Timer inactive)
+07/11/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+07/11/15 @ 19:15 Heating Off (Timer inactive)
+07/11/15 @ 19:30 Heating On (Timer active & temp below 11 C)
+07/11/15 @ 20:00 Heating Off (Timer inactive)
+08/11/15 @ 06:30 Heating On (Timer active & temp below 11 C)
+08/11/15 @ 07:00 Heating Off (Timer inactive)
+08/11/15 @ 07:15 Heating On (Timer active & temp below 11 C)
+08/11/15 @ 08:45 Heating Off (Timer inactive)
+08/11/15 @ 09:00 Heating On (Timer active & temp below 11 C)
+08/11/15 @ 09:15 Heating Off (Timer inactive)
+08/11/15 @ 12:00 Heating On (Timer active & temp below 11 C)
+08/11/15 @ 12:15 Heating Off (Timer inactive)
+08/11/15 @ 12:30 Heating On (Timer active & temp below 11 C)
+08/11/15 @ 12:45 Heating Off (Timer inactive)
+08/11/15 @ 13:00 Heating On (Timer active & temp below 11 C)
+08/11/15 @ 13:15 Heating Off (Timer inactive)
+08/11/15 @ 13:30 Heating On (Timer active & temp below 11 C)
+08/11/15 @ 13:45 Heating Off (Timer inactive)
+09/11/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+09/11/15 @ 06:24 Boost Activated
+09/11/15 @ 07:00 Boost Expired
+09/11/15 @ 07:00 Heating Off (Timer inactive)
+09/11/15 @ 07:40 Boost Activated
+09/11/15 @ 08:00 Boost Expired
+09/11/15 @ 08:00 Heating Off (Timer inactive)
+09/11/15 @ 17:29 Boost Activated
+09/11/15 @ 18:00 Boost Expired
+09/11/15 @ 18:00 Heating Off (Temp above 11 C)
+09/11/15 @ 18:24 Boost Activated
+09/11/15 @ 19:00 Boost Expired
+09/11/15 @ 19:00 Heating Off (Temp above 11 C)
+10/11/15 @ 07:07 Boost Activated
+10/11/15 @ 08:00 Boost Expired
+10/11/15 @ 08:00 Heating Off (Timer inactive & temp above 11 C)
+10/11/15 @ 08:38 Boost Activated
+10/11/15 @ 09:00 Boost Expired
+10/11/15 @ 09:00 Heating Off (Timer inactive & temp above 11 C)
+11/11/15 @ 06:29 Boost Activated
+11/11/15 @ 07:00 Boost Expired
+11/11/15 @ 07:00 Heating Off (Timer inactive & temp above 11 C)
+12/11/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+12/11/15 @ 07:00 Heating Off (Timer inactive)
+12/11/15 @ 07:34 Boost Activated
+12/11/15 @ 08:00 Boost Expired
+12/11/15 @ 08:00 Heating Off (Timer inactive)
+12/11/15 @ 12:46 Boost Activated
+12/11/15 @ 13:06 Boost Expired
+12/11/15 @ 13:06 Heating Off (Timer inactive)
+12/11/15 @ 15:13 Boost Activated
+12/11/15 @ 16:00 Boost Expired
+12/11/15 @ 16:00 Heating Off (Timer inactive & temp above 11 C)
+12/11/15 @ 17:07 Boost Activated
+12/11/15 @ 18:00 Boost Expired
+12/11/15 @ 18:00 Heating Off (Temp above 11 C)
+12/11/15 @ 19:44 Boost Activated
+12/11/15 @ 20:04 Boost Expired
+12/11/15 @ 20:04 Heating Off (Timer inactive & temp above 11 C)
+12/11/15 @ 21:27 Boost Activated
+12/11/15 @ 22:00 Boost Expired
+12/11/15 @ 22:00 Heating Off (Timer inactive)
+13/11/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+13/11/15 @ 07:00 Heating Off (Timer inactive)
+13/11/15 @ 17:00 Heating On (Timer active & temp below 11 C)
+13/11/15 @ 17:30 Heating Off (Timer inactive)
+13/11/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+13/11/15 @ 18:18 Boost Activated
+13/11/15 @ 19:00 Boost Expired
+13/11/15 @ 19:15 Heating Off (Timer inactive)
+14/11/15 @ 06:30 Heating On (Timer active & temp below 11 C)
+14/11/15 @ 07:00 Heating Off (Timer inactive)
+14/11/15 @ 07:15 Heating On (Timer active & temp below 11 C)
+14/11/15 @ 07:17 Boost Activated
+14/11/15 @ 08:00 Boost Expired
+14/11/15 @ 08:22 Boost Activated
+14/11/15 @ 09:00 Boost Expired
+14/11/15 @ 09:15 Heating Off (Timer inactive)
+14/11/15 @ 12:00 Heating On (Timer active & temp below 11 C)
+14/11/15 @ 12:15 Heating Off (Timer inactive)
+14/11/15 @ 12:30 Heating On (Timer active & temp below 11 C)
+14/11/15 @ 12:45 Heating Off (Timer inactive)
+14/11/15 @ 13:00 Heating On (Timer active & temp below 11 C)
+14/11/15 @ 13:15 Heating Off (Timer inactive)
+14/11/15 @ 13:30 Heating On (Timer active & temp below 11 C)
+14/11/15 @ 13:45 Heating Off (Timer inactive)
+14/11/15 @ 18:00 Heating On (Timer active & temp below 11 C)
+14/11/15 @ 18:30 Heating Off (Timer inactive)
+14/11/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+14/11/15 @ 19:15 Heating Off (Timer inactive)
+14/11/15 @ 19:30 Heating On (Timer active & temp below 11 C)
+14/11/15 @ 20:00 Heating Off (Timer inactive)
+14/11/15 @ 23:04 Boost Activated
+15/11/15 @ 00:00 Boost Expired
+15/11/15 @ 00:00 Heating Off (Timer inactive & temp above 11 C)
+15/11/15 @ 09:32 Boost Activated
+15/11/15 @ 10:00 Boost Expired
+15/11/15 @ 10:00 Heating Off (Timer inactive & temp above 11 C)
+15/11/15 @ 10:58 Boost Activated
+15/11/15 @ 11:18 Boost Expired
+15/11/15 @ 11:18 Heating Off (Timer inactive & temp above 11 C)
+15/11/15 @ 11:37 Boost Activated
+15/11/15 @ 12:00 Boost Expired
+15/11/15 @ 12:00 Heating Off (Temp above 11 C)
+15/11/15 @ 12:46 Boost Activated
+15/11/15 @ 13:06 Boost Expired
+15/11/15 @ 13:06 Heating Off (Temp above 11 C)
+15/11/15 @ 15:15 Boost Activated
+15/11/15 @ 15:15 Boost Cancelled
+15/11/15 @ 15:42 Boost Activated
+15/11/15 @ 16:02 Boost Expired
+15/11/15 @ 16:02 Heating Off (Timer inactive & temp above 11 C)
+16/11/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+16/11/15 @ 07:00 Heating Off (Timer inactive)
+16/11/15 @ 16:19 Boost Activated
+16/11/15 @ 17:00 Boost Expired
+16/11/15 @ 17:30 Heating Off (Timer inactive)
+16/11/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+16/11/15 @ 18:30 Heating Off (Timer inactive)
+16/11/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+16/11/15 @ 19:15 Heating Off (Timer inactive)
+17/11/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+17/11/15 @ 07:00 Heating Off (Timer inactive)
+17/11/15 @ 07:08 Boost Activated
+17/11/15 @ 08:00 Boost Expired
+17/11/15 @ 08:00 Heating Off (Timer inactive)
+17/11/15 @ 16:21 Boost Activated
+17/11/15 @ 17:00 Boost Expired
+17/11/15 @ 17:00 Heating Off (Temp above 11 C)
+17/11/15 @ 17:01 Heating On (Timer active & temp below 11 C)
+17/11/15 @ 17:04 Heating Off (Temp above 11 C)
+17/11/15 @ 17:53 Heating On (Timer active & temp below 11 C)
+17/11/15 @ 17:56 Heating Off (Temp above 11 C)
+17/11/15 @ 17:57 Heating On (Timer active & temp below 11 C)
+17/11/15 @ 18:00 Heating Off (Temp above 11 C)
+17/11/15 @ 18:01 Heating On (Timer active & temp below 11 C)
+17/11/15 @ 18:30 Heating Off (Timer inactive)
+17/11/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+17/11/15 @ 19:15 Heating Off (Timer inactive)
+18/11/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+18/11/15 @ 07:00 Heating Off (Timer inactive)
+18/11/15 @ 17:00 Heating On (Timer active & temp below 11 C)
+18/11/15 @ 17:30 Heating Off (Timer inactive)
+18/11/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+18/11/15 @ 18:30 Heating Off (Timer inactive)
+18/11/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+18/11/15 @ 19:15 Heating Off (Timer inactive)
+19/11/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+19/11/15 @ 06:49 Boost Activated
+19/11/15 @ 07:09 Boost Expired
+19/11/15 @ 07:09 Heating Off (Timer inactive)
+19/11/15 @ 09:35 Boost Activated
+19/11/15 @ 09:35 Boost Cancelled
+19/11/15 @ 09:35 Boost Activated
+19/11/15 @ 09:36 Boost Cancelled
+19/11/15 @ 15:51 Boost Activated
+19/11/15 @ 16:11 Boost Expired
+19/11/15 @ 16:11 Heating Off (Timer inactive)
+19/11/15 @ 16:27 Boost Activated
+19/11/15 @ 17:00 Boost Expired
+19/11/15 @ 17:30 Heating Off (Timer inactive)
+19/11/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+19/11/15 @ 18:30 Heating Off (Timer inactive)
+19/11/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+19/11/15 @ 19:15 Heating Off (Timer inactive)
+19/11/15 @ 19:48 Boost Activated
+19/11/15 @ 20:08 Boost Expired
+19/11/15 @ 20:08 Heating Off (Timer inactive)
+20/11/15 @ 06:00 Heating On (Timer active & temp below 11 C)
+20/11/15 @ 07:00 Heating Off (Timer inactive)
+20/11/15 @ 16:16 Boost Activated
+20/11/15 @ 17:00 Boost Expired
+20/11/15 @ 17:30 Heating Off (Timer inactive)
+20/11/15 @ 17:45 Heating On (Timer active & temp below 11 C)
+20/11/15 @ 17:58 Boost Activated
+20/11/15 @ 18:18 Boost Expired
+20/11/15 @ 18:30 Heating Off (Timer inactive)
+20/11/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+20/11/15 @ 19:15 Heating Off (Timer inactive)
+21/11/15 @ 06:30 Heating On (Timer active & temp below 11 C)
+21/11/15 @ 07:00 Heating Off (Timer inactive)
+21/11/15 @ 07:15 Heating On (Timer active & temp below 11 C)
+21/11/15 @ 08:45 Heating Off (Timer inactive)
+21/11/15 @ 09:00 Heating On (Timer active & temp below 11 C)
+21/11/15 @ 09:15 Heating Off (Timer inactive)
+21/11/15 @ 09:59 Boost Activated
+21/11/15 @ 10:19 Boost Expired
+21/11/15 @ 10:19 Heating Off (Timer inactive)
+21/11/15 @ 12:00 Heating On (Timer active & temp below 11 C)
+21/11/15 @ 12:15 Heating Off (Timer inactive)
+21/11/15 @ 12:30 Heating On (Timer active & temp below 11 C)
+21/11/15 @ 12:45 Heating Off (Timer inactive)
+21/11/15 @ 13:00 Heating On (Timer active & temp below 11 C)
+21/11/15 @ 13:15 Heating Off (Timer inactive)
+21/11/15 @ 13:30 Heating On (Timer active & temp below 11 C)
+21/11/15 @ 13:45 Heating Off (Timer inactive)
+21/11/15 @ 15:55 Boost Activated
+21/11/15 @ 16:15 Boost Expired
+21/11/15 @ 16:15 Heating Off (Timer inactive)
+21/11/15 @ 16:21 Boost Activated
+21/11/15 @ 17:00 Boost Expired
+21/11/15 @ 17:00 Heating Off (Timer inactive)
+21/11/15 @ 17:03 Boost Activated
+21/11/15 @ 18:00 Boost Expired
+21/11/15 @ 18:30 Heating Off (Timer inactive)
+21/11/15 @ 18:45 Heating On (Timer active & temp below 11 C)
+21/11/15 @ 19:15 Heating Off (Timer inactive)
+21/11/15 @ 19:30 Heating On (Timer active & temp below 11 C)
+21/11/15 @ 20:00 Heating Off (Timer inactive)
+22/11/15 @ 06:30 Heating On (Timer active & temp below 11 C)
+22/11/15 @ 07:00 Heating Off (Timer inactive)
+22/11/15 @ 07:15 Heating On (Timer active & temp below 11 C)
+22/11/15 @ 08:29 Boost Activated
+22/11/15 @ 09:00 Boost Expired
+22/11/15 @ 09:15 Heating Off (Timer inactive)
+22/11/15 @ 10:10 Boost Activated
+22/11/15 @ 11:00 Boost Expired
+22/11/15 @ 11:00 Heating Off (Timer inactive)
+22/11/15 @ 11:50 Boost Activated
+22/11/15 @ 12:10 Boost Expired
+22/11/15 @ 12:14 Boost Activated
+22/11/15 @ 13:00 Boost Expired
+22/11/15 @ 13:10 Boost Activated
+22/11/15 @ 13:12 Boost Expired
+22/11/15 @ 13:14 Boost Activated
+22/11/15 @ 13:16 Boost Expired
+22/11/15 @ 13:16 Heating Off (Timer inactive)
+22/11/15 @ 13:19 Boost Activated
+22/11/15 @ 13:21 Boost Expired
+22/11/15 @ 13:21 Heating Off (Timer inactive)
+22/11/15 @ 13:25 Boost Activated

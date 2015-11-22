@@ -131,11 +131,12 @@ function getBoostColor() {
 function getBoostRemaining() {
 	if (file_exists("schedule/boost")) {
 		$startTime = file_get_contents("schedule/boost");
-		$now = date("omdHi");
+		$now = date("U");
 		$runtime = $now - $startTime;
 		global $boostTime;
-		$result = $boostTime - $runtime;
-		return $result;
+		$boostTime = $boostTime*60;
+		$result = ($boostTime - $runtime)/60;
+		return round($result);
 	}
 	else
 		return 0;
