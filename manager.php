@@ -1,4 +1,4 @@
-<?
+<?php
 	// manager.php
 	// Called every minuite via cron. Performs the logic to decide if heating should be turned on or off
 

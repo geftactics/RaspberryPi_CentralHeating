@@ -1,4 +1,4 @@
-<!DOCTYPE html><? include("functions.php"); ?>
+<!DOCTYPE html><?php include("functions.php"); ?>
 <html>
 <head>
     <title>Central Heating</title>
@@ -55,7 +55,7 @@
 		<div class="row">
 			<div class="col-xs-12 col-sm-6 col-md-4">
 				<form action="boost.php">
-				<?
+				<?php
 
 				$tempCold = getTempCold();
 
@@ -77,7 +77,7 @@
 				<form action="temp.php">
 					<label for="activation">Activation below:</label>
 					<select name="temperature" class="form-control" onchange="this.form.submit()">
-					<?
+					<?php
 					        for($i=20;$i>=0;$i--)
 					                if($i==$tempCold)
 					                        echo ("\t\t\t\t\t\t<option selected value=\"$i\">$i&deg;C</option>\n");
@@ -95,7 +95,7 @@
 
 		<div class="row hidden-xs">
 		<table cellpadding="0" cellspacing="0">
-		<?
+		<?php
 		$dayName = array("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun");
 
 		echo "\t<tr>\n\t\t\t\t<td></td>\n";
@@ -129,7 +129,7 @@
 
 		<div class="panel panel-default">
 			<div class="panel-body">
-<?
+<?php
 $file = file("schedule/log");
 $file = array_reverse($file);
 

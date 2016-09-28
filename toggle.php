@@ -1,4 +1,4 @@
-<?
+<?php
 // toggle.php
 // When schedule is being updated this will enable or disable heating in one of the given 15min timeslots
 

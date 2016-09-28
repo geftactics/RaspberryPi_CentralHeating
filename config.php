@@ -1,4 +1,4 @@
-<?
+<?php
 
 // How many mins we want to boost feature to run for
 $boostTime = 60;

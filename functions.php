@@ -1,4 +1,4 @@
-<?
+<?php
 
 // functions.php
 // Bulk of code and functions used throughout the system

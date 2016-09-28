@@ -1,4 +1,4 @@
-<?
+<?php
 // temp.php
 // Sets the activation temperature
 

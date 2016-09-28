@@ -1,4 +1,4 @@
-<?
+<?php
 	// boost.php
 	// Activate or cancel the heating boost feature
 
