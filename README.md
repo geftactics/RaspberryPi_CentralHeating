@@ -11,12 +11,20 @@ We run manager.php every minute or so via a cron job to work out if we should ch
 You can boost the heating for a certain amount of time (Default 1hr). We define what times heating should come on via the website grid, and set an activation temperature. If it's colder than this temperature and inside a scheduled 'on-time', then a GPIO pin will be turned on (default pin is 4). I then use a cheap relay board to safely act as a switch across  my boilers thermostat input terminals (You might have to get creative with your boiler here - But be careful! (See disclaimer #2).
 
 The web interface:
+
 ![Alt text](https://cloud.githubusercontent.com/assets/14201513/12079303/b0451af8-b22b-11e5-952a-d80e6e92f5fd.png "Central heating web admin")
 
 From iPhone:
 
 ![Alt text](https://cloud.githubusercontent.com/assets/14201513/12079302/b0426b46-b22b-11e5-9f74-06d7ce5c1acf.png "Central heating smartphone ios admin")
 
+
+To Install:
+Downlaod and install Raspbian Jessie Lite to an SD card. SSH into your pi. then run our quick-n-dirty install script...
+
+wget -O - https://raw.githubusercontent.com/squiggleuk/RaspberryPi_CentralHeating/master/setup.sh | sudo bash
+
+The system should then be avialble via http://<pi-IP>/heating
 
 
 Disclaimers:
