@@ -101,7 +101,7 @@
 		echo "\t<tr>\n\t\t\t\t<td></td>\n";
 
 		for ($hr = 0; $hr <= 23; $hr++)
-			echo "\t\t\t\t<td colspan='4' align='left'>$hr</td>\n";
+			echo "\t\t\t\t<td colspan='4' align='left' style='background:silver;border: 1px solid white' >$hr</td>\n";
 		echo "\t\t\t</tr>\n";
 
 		for ($dy = 0; $dy < 7; $dy++) { //dayrow loop

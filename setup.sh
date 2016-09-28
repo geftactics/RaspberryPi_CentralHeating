@@ -41,8 +41,9 @@ usermod -a -G gpio www-data
 echo "* * * * * root /usr/bin/php /var/www/html/heating/manager.php >/dev/null 2>&1" > /etc/cron.d/heating
 
 
-# Copy crontab defaults file to turn cron logging off
-# cp sysconfig/cron.defaults /etc/default/cron
+# Turn cron logging off
+echo READ_ENV=\"yes\" > /etc/default/cron
+echo EXTRA_OPTS=\"-L 0\" >> /etc/default/cron
 service cron restart
 
 
