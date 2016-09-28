@@ -20,11 +20,15 @@ From iPhone:
 
 
 To Install:
+
 Downlaod and install Raspbian Jessie Lite to an SD card. SSH into your pi. then run our quick-n-dirty install script...
 
 wget -O - https://raw.githubusercontent.com/squiggleuk/RaspberryPi_CentralHeating/master/setup.sh | sudo bash
 
-The system should then be avialble via http://<pi-IP>/heating
+The system should then be avialble via http://192.168.x.x/heating
+
+
+.
 
 
 Disclaimers:
