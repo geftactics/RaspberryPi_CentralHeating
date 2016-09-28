@@ -1,1 +1,0 @@
-SUBSYSTEM=="gpio", ACTION=="add", PROGRAM="/bin/sh -c 'chown -R www-data:www-data /sys%p'"
